@@ -1,12 +1,12 @@
 # Team Task Board
 
-> A collaborative project management repository for [YOUR TEAM NAME]
+> A collaborative project management repository for Team Jordan
 
 ---
 
 ## Project Description
 
-[Write 2-3 sentences describing what this project does and who it's for.]
+a folder-based project repository 
 
 ---
 
@@ -14,13 +14,13 @@
 
 | Name | Role |
 |------|------|
-| [Your Name] | Developer |
+| Jordan Delp | IoT Engineer |
 
 ---
 
 ## Tech Stack
 
-- [List technologies you plan to use, e.g., Java, HTML, CSS]
+- TBD
 
 ---
 
